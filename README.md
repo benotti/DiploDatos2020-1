@@ -5,7 +5,7 @@ Programa de Mentorías Diplomatura en Ciencia de Datos y sus aplicaciones 2020 -
 
 ### Motivación 
 
-Actualmente nos encontramos atravesando una época de auge de la Ciencia de Datos. Este boom muchas veces nos lleva a querer analizar, encontrar particularidades, correlaciones y hacer predicciones de datos que se presentan a nuestro alcance. No cabe duda, y existen muchos casos reales conocidos, que esta fascinación por los datos y por automatizar procedimientos es un arma de doble filo si no somos conscientes de lo que podemos generar con nuestros análisis. No obstante, si tenemos presente esto último podemos ser capaces de producir muy buenas contribuciones y obtener conclusiones de  gran utilidad para otras personas. Una de las clave está entonces en enriquecer y ayudar a otras áreas desde la Ciencia de Datos, el ámbito social es una de ellas.
+Actualmente nos encontramos atravesando una época de auge de la Ciencia de Datos. Este boom muchas veces nos lleva a querer analizar, encontrar particularidades, correlaciones y hacer predicciones de datos que se presentan a nuestro alcance. No cabe duda, y existen muchos casos reales conocidos, que esta fascinación por los datos y por automatizar procedimientos es un arma de doble filo si no somos conscientes de lo que podemos generar con nuestros análisis. No obstante, si tenemos presente esto último **podemos ser capaces de producir muy buenas contribuciones y obtener conclusiones de  gran utilidad** para otras personas. Una de las clave está entonces en enriquecer y ayudar a otras áreas desde la Ciencia de Datos, el ámbito social es una de ellas.
 
 ### Descripción del Problema y los datos
 
