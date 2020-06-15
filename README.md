@@ -9,7 +9,7 @@ Actualmente nos encontramos atravesando una época de auge de la Ciencia de Dato
 
 ### Descripción del Problema y los datos
 
-Teniendo datos de variables relacionadas a diferentes indicadores sociales ([Educación](https://datos.bancomundial.org/tema/educacion), [Género](https://datos.bancomundial.org/tema/genero?view=chartm), [Medio Ambiente](https://datos.bancomundial.org/tema/medio-ambiente?view=chart), Pobreza, Protección Social y Salud) de los años comprendidos en el intervalo 1960-2019 en esta mentoría se propone, en base a un análisis exhaustivo de la información, realizar una predicción de cada uno de estas variables para el año 2019 de los países pertenecientes al MERCOSUR y sus estados asociados.
+Teniendo datos de variables relacionadas a diferentes indicadores sociales ([Educación](https://datos.bancomundial.org/tema/educacion), [Género](https://datos.bancomundial.org/tema/genero?view=chartm), [Medio Ambiente](https://datos.bancomundial.org/tema/medio-ambiente?view=chart), Pobreza, Protección Social y [Salud](https://datos.bancomundial.org/tema/salud?view=chart) de los años comprendidos en el intervalo 1960-2019 en esta mentoría se propone, en base a un análisis exhaustivo de la información, realizar una predicción de cada uno de estas variables para el año 2019 de los países pertenecientes al MERCOSUR y sus estados asociados.
 
 Para resolver el problema se utilizarán los datos de libre acceso del [Banco Mundial](https://datos.bancomundial.org/indicador) particularmente los relacionados con Argentina, Brasil, Paraguay, Uruguay, Venezuela, Bolivia, Chile, Colombia, Ecuador, Guyana, Perú y Surinam.
 
