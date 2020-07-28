@@ -6,6 +6,7 @@ Programa de Mentorías Diplomatura en Ciencia de Datos y sus aplicaciones 2020 -
 ### Repositorios de Entregas:
 
 Grupo 1: [https://github.com/sanmope/MentoriaMercosur/](https://github.com/sanmope/MentoriaMercosur/)
+
 Grupo 2: [https://github.com/maguerreberry/indicadores_mercosur](https://github.com/maguerreberry/indicadores_mercosur)
 
 ### Motivación 
